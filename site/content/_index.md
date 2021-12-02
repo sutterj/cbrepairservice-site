@@ -1,13 +1,16 @@
 ---
-title: Professional Service where we treat you like family!
-subtitle: Local Company striving to support the local community.
+title: Professional Service Where We Treat You Like Family!
+subtitle: Local Company Striving to Support the Local Community.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why CB Repair Service
+  text: CB repair service is a small local company looking to support the
+    communities that we grew up in.  The owner Chris has 5 plus years working in
+    a commercial environment on kitchen equipment and doing electrical work to
+    help business be able to serve their customers better. Chris' father was an
+    electrician who taught him everything he knows growing up.  Chris strives to
+    make his clients feel appreciated and wanted. He wants them to know they got
+    what they paid and wanted.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
