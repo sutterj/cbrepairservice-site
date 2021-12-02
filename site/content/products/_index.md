@@ -26,6 +26,11 @@ testimonials:
       and impossible job. After going to pick up some unexpected but needed
       supplies it only took a couple hours to finish. "
     author: "Barbara Dubois "
+  - quote: Chris is exceptionally professional and personable. He has fixed molding
+      in my bathroom, framed and trimmed a cabinet and closet door. The work was
+      done in the allotted time, and was well priced. He is my go to person to
+      help me fix up my old house!
+    author: Malia
 full_image: /img/products-full-width.jpg
 pricing:
   heading: "Price Points "
