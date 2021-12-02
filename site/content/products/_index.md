@@ -38,19 +38,19 @@ pricing:
     larger jobs if needed "
   plans:
     - plan: "Basic jobs "
-      price: "35.00 per hour "
+      price: "65 per hour "
       description: "basic jobs such as small scale installs, repairs, painting
         (interior) electrical, plumbing, Cleaning, lawn care, drywall "
       items:
         - Commercial/residential
     - plan: "Medium sized jobs "
-      price: "45.00 per hour "
+      price: "75 per hour "
       description: "Medium sized jobs such as small scale installs, repairs,
         painting,  electrical, plumbing, Cleaning, lawn care, drywall "
       items:
         - Commercial/residential
     - plan: "Large Jobs "
-      price: "65.00 per hour "
+      price: "85 per hour "
       description: "basic jobs such as small scale installs, repairs, painting
         (interior) electrical, plumbing, Cleaning, lawn care, drywall "
       items:
