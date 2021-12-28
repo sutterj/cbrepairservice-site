@@ -17,10 +17,10 @@ intro:
   text: |
     Great Service and repair at a competitive rate. 
 
-    Carpentry
-    Electrical
-    Plumbing 
-    Painting 
+    Carpentry, 
+    Electrical, 
+    Plumbing, 
+    Painting,  
     Remodeling
     Deck Repair and replacement
     Appliance Install and repair  
