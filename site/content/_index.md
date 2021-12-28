@@ -1,6 +1,7 @@
 ---
-title: Professional Service Where We Treat You Like Family!
-subtitle: Local Company Striving to Support the Local Community.
+title: "C B Repair Service "
+subtitle: Professional Service Where We Treat You Like Family! Local Company
+  Striving to Support the Local Community.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why CB Repair Service
@@ -13,10 +14,28 @@ blurb:
     what they paid and wanted.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: |
+    Great Service and repair at a competitive rate. 
+
+    Carpentry
+    Electrical
+    Plumbing 
+    Painting 
+    Remodeling
+    Deck Repair and replacement
+    Appliance Install and repair  
+    Flooring 
+    Land scaping 
+    Yard care 
+    Winterization 
+    Business upkeep 
+    Interior Design and Decorating
+    Mold Repair 
+    Water treatment systems 
+    Well components repair and install (interior Only)
+    Water heater repair and install 
+
+    Don't see what your looking for? Contact us for more information. 
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -31,8 +50,12 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    Done right the first time. 
+
+
+    will always take the extra time to make sure that our Quality of work is the best. 
+
+
+    We will treat you like family.
 ---
