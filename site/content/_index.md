@@ -2,7 +2,7 @@
 title: "C B Repair Service "
 subtitle: Professional Service Where We Treat You Like Family! Local Company
   Striving to Support the Local Community.
-image: /img/home-jumbotron.jpg
+image: img/logo.jpg
 blurb:
   heading: Why CB Repair Service
   text: CB repair service is a small local company looking to support the
@@ -37,17 +37,20 @@ intro:
 
     Don't see what your looking for? Contact us for more information. 
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/tdrq4359.jpg
+    text: "Renovations done with the Customer in mind "
+  - image: img/147043411_330816831588562_8468494033167766466_n.jpg
+    text: "the Owner Chris takes great pride in his work and his community he will
+      always take the steps to make sure your project is done right the first
+      time and will always treat you like family. "
+  - image: img/bmpb3821.jpg
+    text: "Installs in new and old construction "
+  - image: img/cxkw9120.jpg
+    text: "Custom design made easy "
+  - image: img/knfe7516.jpg
+    text: "Take your dreams and make them come true "
+  - image: img/aqmw8424.jpg
+    text: "renovations done right "
 values:
   heading: Our values
   text: >-
