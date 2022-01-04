@@ -4,7 +4,11 @@ image: img/logo.jpg
 heading: What we offer
 description: "Great Service at a great price and we will always treat you like Family. "
 intro:
-  blurbs: []
+  blurbs:
+    - image: img/onrx5148.jpg
+      text: "full demolition and remodel of a 1/2 bath "
+    - image: img/nzjy0413.jpg
+      text: "Totally out of date and not up to code "
   heading: What we offer
   description: "Great Service at a great price. "
 main:
@@ -31,7 +35,10 @@ testimonials:
       done in the allotted time, and was well priced. He is my go to person to
       help me fix up my old house!
     author: Malia
-full_image: /img/products-full-width.jpg
+  - quote: He was Honest, trustworthy and had so much attention to detail. he
+      treated me so well I wish he was my family.
+    author: "Martha "
+full_image: img/postcard-back.jpg
 pricing:
   heading: "Price Points "
   description: "Prices may Vary Depending on job and will also give Quotes for
